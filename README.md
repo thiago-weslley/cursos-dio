@@ -1,2 +1,2 @@
 # CURSOS-DIO
-Repositório para os Projetos de Desafio da DIO.
+Repositório para anotações dos cursos da DIO.
