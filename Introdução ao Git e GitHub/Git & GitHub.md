@@ -2,6 +2,7 @@
 
 
 
+
 ## GIT:
 
 - O Git é um **sitema de controle de versão.** 
@@ -12,11 +13,14 @@
 
 
 
+
 ## GITHUB:
 
 - O GitHub foi lançado oficialmente em 2008.
 - Em poucas palavras, **o GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão chamado Git.** Ele permite que os desenvolvedores colaborem e façam alterações em projetos compartilhados, mantendo um registro detalhado de seu progresso.
 - De modo geral, podemos dizer que o GitHub seria uma 'rede social para programadores'.
+
+
 
 
 
