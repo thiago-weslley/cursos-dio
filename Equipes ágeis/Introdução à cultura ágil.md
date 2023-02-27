@@ -40,9 +40,6 @@ O Manifesto Ágil **é uma declaração dos principais valores e princípios do 
 
 O Manifesto  Ágil surgiu com um documento criado em 02/2001, unindo 17 profissionais que já praticavam métodos ágeis como o XP, DSDM, Scrum, FDD, etc. Esses 17 desenvolvedores usavam abordagens e métodos diferentes, mas compartilhavam dos mesmos fundamentos. **Eles decidiram criar um documento que funcionaria como uma chamada à ação para o novo processo de desenvolvimento de software.**
 
----
-
-
 
 ### OS 4 VALORES DO MANIFESTO ÁGIL:
 
