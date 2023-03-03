@@ -1,57 +1,34 @@
 # AGILIDADE X RAPIDEZ
-
-
-
+<br>
 Tomando como exemplo um 'Trem-bala' e um 'Guepardo', **podemos dizer que o trem-bala é muito mais rápido** que um guepardo podendo atingir velocidades superiores a 300 km/h, enquanto um guepardo adulto pode atingir estimadamente uma velocidade entre 80 - 130 km/h, o que é muito inferior se comparada com a velocidade de um trem-bala.
 
-
-
 **Porém, quando a questão se trata de adaptação e agilidade** o Guepardo se sobressai. Por exemplo, quando um guepardo esta caçando outro animal e sua presa muda de rota ao ser perseguida, um guepardo possui capacidades de acompanha-lá sem abrir mão de sua agilidade devido a sua estrutura corporal e fácil adaptação em altas velocidades.
-
-
 
 **O ato de ser 'ágil' não quer dizer necessariamente ser o mais rápido**, ser ágil, na verdade, é ter facilidade no aprendizado e consequentemente na melhoria continua e **principalmente na adaptação**.
 
 ---
-
-
-
+<br>
 ## EQUIPES ÁGEIS:
-
-
 
 Equipes ágeis nada mais são do que um grupo de pessoas cujo principal objetivo é focar nas necessidades do cliente de maneira flexível e facilmente adaptável às necessidades e mudanças de ideias do cliente.
 
-
-
 **Uma equipe ágil deve SEMPRE priorizar a agilidade e sempre buscar a melhoria continua** ao adaptar-se mediante aos obstáculos impostos pelos próprios objetivos da equipe.
-
 ___
-
-
-
+<br>
 ## O MANIFESTO ÁGIL:
-
-
 
 O Manifesto Ágil **é uma declaração dos principais valores e princípios do desenvolvimento ágil de softwares modernos.**
 
-
-
 O Manifesto  Ágil surgiu com um documento criado em 02/2001, unindo 17 profissionais que já praticavam métodos ágeis como o XP, DSDM, Scrum, FDD, etc. Esses 17 desenvolvedores usavam abordagens e métodos diferentes, mas compartilhavam dos mesmos fundamentos. **Eles decidiram criar um documento que funcionaria como uma chamada à ação para o novo processo de desenvolvimento de software.**
 
-
+<br>
 ### OS 4 VALORES DO MANIFESTO ÁGIL:
-
-
 
 - **Indivíduos e Interações**, mais que processos e ferramentas.
 - **Software em funcionamento** mais que documentação.
 - **Colaboração com o cliente** mais que negociação de contratos.
 - **Responder a mudanças** mais que seguir um plano.
-
-
-
+<br>
 ### OS 12 PRINCÍPIOS DO MANIFESTO ÁGIL:
 
 1.  Nossa maior prioridade é satisfazer o cliente através da entrega contínua e adiantada de software com valor agregado.
